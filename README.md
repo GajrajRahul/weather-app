@@ -16,7 +16,7 @@ Check the weather around you and all over the world at a glance. Rely on the acc
 
 
 # Description
-  Get the weather info of your city by giving permision to location and know current as well as next few days weather info by clicking on see more button. You can get     any city's weather info through search field and add them to favourite by clicking on the * icon adjacent to city name. Your favourite data will remain stored           in localstorage and can access them after reload.
+  Get the weather info of your city by giving permision to location and know current as well as next few days weather info by clicking on see more button. You can get     any city's weather info through search field and add them as list to favourite by clicking on the * icon adjacent to city name. Your favourite data will remain stored           in localstorage and can access them after reload.
 
 
 # To Run the Project in Local
@@ -24,6 +24,12 @@ Check the weather around you and all over the world at a glance. Rely on the acc
   2. Install all dependency command- npm install
   3. To run a. Production: npm run build serve -s build
   4. b. Development: npm run start
+  
+
+
+NOTE: Allow location permission so that this weather app can provide information of your location.
+
+
 
 
 
